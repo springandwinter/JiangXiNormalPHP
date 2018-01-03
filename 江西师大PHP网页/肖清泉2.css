@@ -1,0 +1,24 @@
+.shida{background-color:;background-image:url(.jpg);background-repeat:no-repeat;padding-left:500px;
+height:221px;font-size:150%;padding-left:270px;}
+.shida1{padding:30px;font-family:Arial,Helvetica,sans-serif;font-style:italic;color:#CC6600;}
+body{background-color:;background-image:url(2201973_230319095_2.jpg);background-repeat:no-repeat;}
+.zuobian{margintop:-10px}
+#zuobian a{text-decoration:none;background-color:#99FF99;padding-left:5px;-webkit-border-radius:25px;-moz-border-radius:25px;border-radius:25px;}
+#zuobian li{display:block;padding-top:4px;padding-bottom:5px}
+#zuobian a:link{color:#FF0066;}
+#zuobian a:visitied{color:#FF0000;}
+#zuobian a:hover{color:#3300FF;}
+#zhuti {margin-left:300px;margin-top:-330px;}
+#xiabian a{text-decoration:none;background-color:#33FFCC;-moz-border-radius:25px;border-radius:25px;}
+#xiabian li{display:block;}
+#xiabian li{display:inline;float:right;}
+#xiabian li{padding-left:50px;margin-right:200px;margin-top:0px;}
+#xiabian a:hover{color:#FFFF33;}
+#xiabiam a:visitied{color:#33CCCC;}
+#youbian a{text-decoration:none;background-color:#99FF99;padding-left:5px;-webkit-border-radius:25px;-moz-border-radius:25px;border-radius:25px;}
+#youbian {float:right;margin-top:-300px;}
+#youbian u1{list-style-type:none;}
+#youbian li{padding-top:30px;}
+#youbian a:link{color:#660033;}
+#youbian a:visitied{color:#3333FF;}
+#youbian a:hover{color:#CC0000;}

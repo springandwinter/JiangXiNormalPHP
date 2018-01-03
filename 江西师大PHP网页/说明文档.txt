@@ -1,0 +1,7 @@
+操作流程：找到：enter.php网页-->进行登入，注册，默认用户名为：123 密码：123-->进入主界面index.php
+
+工作环境：IE浏览器
+
+数据库为：userinfo.sql
+
+      表：culture 和userinfomation
